@@ -59,5 +59,3 @@ These filters allow dynamic exploration of the data.
 
 ---
 ![Dashboard](Sales.png)
-
-هل تحب أضيف ترجمة عربية للنسخة دي؟ أو تحب أضيف جزء عن كيفية تحميل البيانات أو ربطها؟
